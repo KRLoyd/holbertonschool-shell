@@ -1,0 +1,3 @@
+# basics
+
+basic shell scripts
